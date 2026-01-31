@@ -1,6 +1,6 @@
 # Hi there, I'm prasenjit! 👋
 
-![Banner Image](your_banner_image_url_here) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdz5EIWgqktH6PeDEHHF6uA5RrbpTOb36eA&s
+![[Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdz5EIWgqktH6PeDEHHF6uA5RrbpTOb36eA&s)](your_banner_image_url_here) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdz5EIWgqktH6PeDEHHF6uA5RrbpTOb36eA&s
 
 ## About Me 🚀
 

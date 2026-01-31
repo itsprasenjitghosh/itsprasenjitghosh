@@ -33,6 +33,6 @@ I'm a passionate cloud and devops Role with experience in cloud administration. 
 
 ## Get in Touch 📬
 
-- **[LinkedIn]** https://www.linkedin.com/in/prasenjit-ghosh-033127a4
+- **[LinkedIn]** (https://www.linkedin.com/in/prasenjit-ghosh-033127a4)
 
 

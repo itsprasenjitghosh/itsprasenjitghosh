@@ -15,7 +15,7 @@ I'm a passionate cloud and devops Role with experience in cloud administration. 
 ## My Skills 🧠
 
 Azure Cloud Admin,
-Vmware Cloud Admin,
+VMWare Cloud Admin,
 Windows Admin,
 Linux Admin
 

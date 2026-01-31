@@ -14,12 +14,11 @@ I'm a passionate cloud and devops Role with experience in cloud administration. 
 
 ## My Skills 🧠
 
-Azure Cloud Admin
-Vmware Cloud Admin
-Windows Admin
+Azure Cloud Admin,
+Vmware Cloud Admin,
+Windows Admin,
 Linux Admin
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 

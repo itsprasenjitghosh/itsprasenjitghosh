@@ -9,8 +9,8 @@ I'm a passionate cloud and devops Role with experience in cloud administration. 
 - 🌱 Currently learning: devops skills
 - 🔭 Working on: Implementing devops in our org
 - 🌍 Languages: python, yaml
-- 📫 How to reach me: imprasenjit9@gmail.com
-- ⚡ Fun fact: I love food and Trekking
+- 📫 How to reach me: prasenjit5@hotmail.com
+- ⚡ Fun fact: I love travel religious places, food and Trekking
 
 ## My Skills 🧠
 
